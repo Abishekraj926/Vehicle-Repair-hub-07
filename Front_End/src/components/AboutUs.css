@@ -1,0 +1,44 @@
+/* App.css */
+.home-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .sign-in-container,
+  .sign-up-container {
+    text-align: center;
+    margin: 50px auto;
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .sign-in-container form div,
+  .sign-up-container form div {
+    margin-bottom: 10px;
+  }
+  
+  .sign-in-container button,
+  .sign-up-container button {
+    padding: 10px 20px;
+  }
+  
+  .about-us-container {
+    text-align: center;
+    margin: 50px auto;
+    max-width: 800px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .about-us-container h1, .about-us-container h2 {
+    margin-top: 0;
+  }
+  
+  .about-us-container p {
+    text-align: left;
+  }
+  
